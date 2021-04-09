@@ -1,0 +1,6 @@
+C:\Users\A\source\repos\Lab6Service\bin\Lab6Service.dll.config
+C:\Users\A\source\repos\Lab6Service\bin\Lab6Service.dll
+C:\Users\A\source\repos\Lab6Service\bin\Lab6Service.pdb
+C:\Users\A\source\repos\Lab6Service\obj\Debug\Lab6Service.csprojAssemblyReference.cache
+C:\Users\A\source\repos\Lab6Service\obj\Debug\Lab6Service.dll
+C:\Users\A\source\repos\Lab6Service\obj\Debug\Lab6Service.pdb

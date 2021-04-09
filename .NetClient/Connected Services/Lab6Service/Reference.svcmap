@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="b55c3693-a849-4841-9b81-cdec36e637f5" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/OnlineService/RestaurantReviewService.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="RestaurantReviewService.xsd" MetadataType="Schema" ID="2f5f86af-b337-4607-b3e9-320e393fc1a4" SourceId="1" SourceUrl="http://localhost/OnlineService/RestaurantReviewService.svc?xsd=xsd0" />
+    <MetadataFile FileName="RestaurantReviewService.wsdl" MetadataType="Wsdl" ID="baff57eb-eab6-4c59-b52e-05c1dee4b435" SourceId="1" SourceUrl="http://localhost/OnlineService/RestaurantReviewService.svc?wsdl" />
+    <MetadataFile FileName="RestaurantReviewService1.xsd" MetadataType="Schema" ID="f06d9a3c-e4dc-45b5-911e-a0f17f1fdffe" SourceId="1" SourceUrl="http://localhost/OnlineService/RestaurantReviewService.svc?xsd=xsd1" />
+    <MetadataFile FileName="RestaurantReviewService2.xsd" MetadataType="Schema" ID="97fa2ad9-2eb1-4d88-a158-50aa4409f4de" SourceId="1" SourceUrl="http://localhost/OnlineService/RestaurantReviewService.svc?xsd=xsd3" />
+    <MetadataFile FileName="RestaurantReviewService3.xsd" MetadataType="Schema" ID="d3cef595-44a9-4d7e-ad5c-22ae5351dfb2" SourceId="1" SourceUrl="http://localhost/OnlineService/RestaurantReviewService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
